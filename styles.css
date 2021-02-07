@@ -208,6 +208,6 @@ select {
   .inputs{
     display: flex;
     flex-direction: column;
-    max-width: 15rem;
+    max-width: 75vw;
   }
 }
